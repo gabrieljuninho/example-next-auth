@@ -1,0 +1,28 @@
+# dependencies
+node_modules
+package.json
+package-lock.json
+
+# next
+.next
+public
+
+# eslint
+.eslintrc.json
+
+# prettier
+.prettierrc
+
+# production
+build
+dist
+
+# vercel
+vercel.json
+
+# github
+CHANGELOG.md
+README.md
+
+# typescript
+tsconfig.json
